@@ -90,4 +90,34 @@ num = reduce(lambda x,y:x*y, list1)
 #     num = num + i
 print(num)
 
+
+
+
+
+
+
+
+
+
+
+
+from array import*
+
+# vals = array('i',[1,2,3,4,5,])
+#
+# for i in range(5):
+#    print(vals[i])
+
+# val =array('i',[2,3,4,5,])
+# for i in range(4):
+#    print(val[i])
+val=array('i',[2,3,4,5,6,7])
+
+
+
+val.reverse()
+print(val)
+
+
+
   
